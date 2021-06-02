@@ -20,10 +20,10 @@ canvas {
 
 @keyframes color-shift {
     from {
-        box-shadow: 1px 1px 38px red;
+        box-shadow: 1px 1px 38px white;
     }
 
     to {
-        box-shadow: 1px 1px 25px yellow;
+        box-shadow: 1px 1px 25px red;
     }
 }
